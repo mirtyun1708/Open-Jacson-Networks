@@ -20,6 +20,10 @@ Visual components and Python
 
 
 ## Program
+```
+DEVELOPED BY: MIRTYUNJAY S
+REGISTER NO: 24013065
+```
 
 
 ## Output
